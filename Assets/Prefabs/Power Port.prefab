@@ -10469,6 +10469,8 @@ MonoBehaviour:
   - {fileID: 6960776886092733282}
   - {fileID: 6067641138832287288}
   - {fileID: 2065629098978145218}
+  colorOn: {r: 1, g: 0, b: 0, a: 1}
+  colorOff: {r: 0, g: 0, b: 0, a: 1}
 --- !u!1 &8105321605890213367
 GameObject:
   m_ObjectHideFlags: 0
